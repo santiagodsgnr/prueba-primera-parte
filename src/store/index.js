@@ -14,9 +14,6 @@ export default new Vuex.Store({
     setPersonajes(state, personajesSW) {
       state.personajesSW = personajesSW
     },
-    setPage(state, url) {
-      state.url = url
-    },
     InfoPersonaje(state, infoPersonaje) {
       state.infoPersonaje = infoPersonaje
     }

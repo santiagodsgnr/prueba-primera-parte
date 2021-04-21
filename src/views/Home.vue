@@ -3,7 +3,7 @@
     <header>
       <img src="../assets/Star_Wars_Logo.svg" class="logo">
       <div class="titulo">
-        <h1>PERSONAJES</h1>
+        <h1>PERSONAJES nuevo</h1>
       </div>
       <personajes/>
     </header>
